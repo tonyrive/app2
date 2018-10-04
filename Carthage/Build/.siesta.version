@@ -1,0 +1,39 @@
+{
+  "Mac" : [
+    {
+      "name" : "SiestaUI",
+      "hash" : "34795ae6b4cfe2457a12d0b7653f36a53504b38b29c89cfdba889d77f3188b90"
+    },
+    {
+      "name" : "Siesta",
+      "hash" : "3a48c8d4efaabd70cedf912d92ef772f2eb1974962c60186f34b7454e5b5b098"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "Siesta",
+      "hash" : "e3ab9908325039ed4710127f4ee1166f40a1feaa3ac1309f4537ebcd63cf7b1f"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "Siesta",
+      "hash" : "d03fa393915a58e0e62e8c7835b17d2b26e23323faedaca8bb7442df0e03b766"
+    }
+  ],
+  "commitish" : "1.4.2",
+  "iOS" : [
+    {
+      "name" : "SiestaUI",
+      "hash" : "e9fc349846db3ce189329e7892c98bfcad4a8344b9c7b3ce7bc9464b35be95a8"
+    },
+    {
+      "name" : "SiestaUI",
+      "hash" : "e9fc349846db3ce189329e7892c98bfcad4a8344b9c7b3ce7bc9464b35be95a8"
+    },
+    {
+      "name" : "Siesta",
+      "hash" : "871641872274d02b0a094929a433980206c62e048a5c743f9a37df02bc70e29d"
+    }
+  ]
+}
